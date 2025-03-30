@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">User Action Recorder</string>
+    <string name="tab_recording">Запись</string>
+    <string name="tab_scheduling">Расписание</string>
+    <string name="start_recording">Начать запись</string>
+    <string name="stop_recording">Остановить запись</string>
+    <string name="save_recording">Сохранить запись</string>
+    <string name="enter_recording_name">Введите название записи</string>
+    <string name="add_schedule">Добавить расписание</string>
+    <string name="accessibility_service_description">Сервис для записи действий пользователя</string>
+    <string name="accessibility_service_label">Запись действий пользователя</string>
+    <string name="error_accessibility_not_enabled">Включите сервис специальных возможностей в настройках</string>
+    <string name="error_permission_not_granted">Необходимо предоставить разрешения для работы приложения</string>
+    <string name="recording_saved">Запись сохранена</string>
+    <string name="recording_started">Запись начата</string>
+    <string name="recording_stopped">Запись остановлена</string>
+    <string name="schedule_added">Расписание добавлено</string>
+    <string name="schedule_removed">Расписание удалено</string>
+    <string name="select_time">Выберите время</string>
+    <string name="select_recording">Выберите запись</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="cancel">Отмена</string>
+    <string name="delete">Удалить</string>
+    <string name="edit">Редактировать</string>
+</resources>
