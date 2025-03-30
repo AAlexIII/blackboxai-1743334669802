@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Отступы -->
+    <dimen name="spacing_tiny">2dp</dimen>
+    <dimen name="spacing_small">4dp</dimen>
+    <dimen name="spacing_medium">8dp</dimen>
+    <dimen name="spacing_large">16dp</dimen>
+    <dimen name="spacing_xlarge">24dp</dimen>
+    <dimen name="spacing_xxlarge">32dp</dimen>
+
+    <!-- Размеры текста -->
+    <dimen name="text_caption">12sp</dimen>
+    <dimen name="text_body">14sp</dimen>
+    <dimen name="text_subheading">16sp</dimen>
+    <dimen name="text_title">18sp</dimen>
+    <dimen name="text_headline">20sp</dimen>
+
+    <!-- Размеры компонентов -->
+    <dimen name="button_height">56dp</dimen>
+    <dimen name="button_min_width">88dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="card_corner_radius">8dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    
+    <!-- Специфичные размеры -->
+    <dimen name="record_button_size">200dp</dimen>
+    <dimen name="record_button_icon_size">48dp</dimen>
+    <dimen name="list_item_height">72dp</dimen>
+    <dimen name="toolbar_height">56dp</dimen>
+    <dimen name="tab_height">48dp</dimen>
+    
+    <!-- Отступы для списков -->
+    <dimen name="list_vertical_spacing">8dp</dimen>
+    <dimen name="list_horizontal_spacing">16dp</dimen>
+    <dimen name="list_item_padding">16dp</dimen>
+</resources>
